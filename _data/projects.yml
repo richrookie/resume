@@ -3,4 +3,5 @@
   link: 
   quote: >
     2018.00.00 ~ 현재
+  description: | # this will include new lines to allow paragraphs
     * blahblah (2018.04.01 ~ 2018.07.31)
