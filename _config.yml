@@ -8,17 +8,12 @@ version: 2
 name: 최 영민
 title: 클라이언트 개발자
 email: psymchoi@gmail.com
+website: https://richrookie.github.io/
 
 # Social links
-# twitter_username: sproogen
 github_username:  richrookie
-# dribbble_username:
-# facebook_username:
-# flickr_username:
-# instagram_username: jameswgrant
 linkedin_username: youngmin-choi-bs-2405b6208
-# pinterest_username:
-# youtube_username:
+stackoverflow_username: "23053463"
 
 # About Section
 # about_title: About Me
