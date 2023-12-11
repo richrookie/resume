@@ -1,7 +1,28 @@
 - layout: top-middle
   name: 개발 파트 매니징
+  quote: >
+    2020.10.03 ~ 현재 (3년 2개월)
+  description: | # this will include new lines to allow paragraphs
+    * 게임 개발을 위한 프로젝트 계획 수립, 타임라인, 마일스톤 및 리소스 할당 설정 - <mark>Pre-Production</mark> <mark>Conceptualiztion</mark> <mark>Prototyping</mark> <mark>Pre-Visualization</mark> 
+    * 팀원과 부서 간의 의사소통, 협업 및 워크플로우 촉진 - <mark>CEO/COO</mark> <mark>Desinger</mark> <mark>Creative Team</mark>
+    * 진행 상황 모니터링, 작업 완료 시간 등 전반적인 프로젝트 일정 관리 - <mark>Slack</mark> <mark>Git/Github</mark>
+    * 작업 품질 테스트 및 피드백 루프 조정 - <mark>QA</mark>
+    * 팀 내 갈등이나 문제를 해결하고 긍정적이고 생산적인 업무 환경 모색 - <mark>Communication</mark>
+    * 출시 후 피드백, 성능 지표 분석 - <mark>Google Analytics</mark>
+
+- layout: top-middle
+  name: 대표 프로젝트
   link: 
   quote: >
-    2018.00.00 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    * blahblah (2018.04.01 ~ 2018.07.31)
+    * 첫 흑자 전환 프로젝트 - [Match Gun 3D](https://play.google.com/store/apps/details?id=com.mondayoff.matchgun) (2023.05.11 ~ 2023.08.02)
+    * 자사 첫 누적 유저 100만 달성 프로젝트 - [Time Walker 3D](https://play.google.com/store/apps/details?id=com.mondayoff.time) (2021.01.25 ~ 2023.06.05)
+    * 커리어에서 가장 도전이 된 프로젝트 - [TankBall!](https://play.google.com/store/apps/details?id=com.mondayoff.tank) (2021.10.01 ~ 2022.01.28)
+
+- layout: top-middle
+  name: 데이터 개선 및 업무효율 증대
+  link: 
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Unity Framework 적극 활용으로 업무 효율 100% 증대
+    * 스테이지 게임에서 유저 이탈 포인트를 분석하고, 레벨디자인 변경으로 인한 스테이지 퍼널 50% 개선

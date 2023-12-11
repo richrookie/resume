@@ -1,7 +1,39 @@
 - layout: left
   name: 개인 블로그
+  link: https://richrookie.github.io/
+  quote: >
+    개발 일기장 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 개인 역량을 강화하기 위한 블로그
+
+- layout: left
+  name: Unity Framework
+  link: https://github.com/richrookie/UnityFramework
+  quote: >
+    팀내 작업 환경 개선 오픈소스
+  description: | # this will include new lines to allow paragraphs
+    * 업무 효율 100% 향상
+
+- layout: left
+  name: Match Gun 3D
   link: 
   quote: >
-    개인 기술 블로그
+    대표 프로젝트1 오픈소스
   description: | # this will include new lines to allow paragraphs
-    * Blah Blah
+    * 첫 흑자 전환 프로젝트
+
+- layout: left
+  name: TimeWalker 3D
+  link: https://github.com/richrookie/TimeWalker3D
+  quote: >
+    대표 프로젝트2 오픈소스
+  description: | # this will include new lines to allow paragraphs
+    * 자사 첫 누적 유저 100만 달성
+
+- layout: left
+  name: TankBall!
+  link: https://github.com/richrookie/TankBall
+  quote: >
+    대표 프로젝트3 오픈소스
+  description: | # this will include new lines to allow paragraphs
+    * 커리어에서 가장 도전이 된 프로젝트

@@ -1,8 +1,9 @@
 - layout: left
-  name: Blah Blah
-  dates: 2018.04 ~ 
-  link: https://github.com/richrookie
+  name: 상명대학교 - 정보통신공학과
+  dates: 2014.03 ~ 2020.02
+  link: https://ittech.smu.ac.kr/it/index.do
   quote: >
-    Blah Blah
+    최종학력, BS
   description: | # this will include new lines to allow paragraphs
-    * Blah Blah
+    * 캡스톤 경진대회 우수상 - 상명대학교 교육혁신원 <mark>2019.06</mark>
+    * VR/AR 그랜드챌린지 입선 - 한국가상 증강현실산업협의회(KoBRA) <mark>2019.10</mark>
