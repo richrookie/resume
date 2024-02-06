@@ -16,7 +16,7 @@
 
 - layout: left
   name: Match Gun 3D
-  link:
+  link: https://github.com/richrookie/MatchGun3D
   quote: >
     대표 프로젝트1 오픈소스
   description: | # this will include new lines to allow paragraphs
@@ -30,10 +30,10 @@
   description: | # this will include new lines to allow paragraphs
     * 자사 첫 누적 유저 100만 달성
 
-# - layout: left
-#   name: TankBall!
-#   link: https://github.com/richrookie/TankBall
-#   quote: >
-#     대표 프로젝트3 오픈소스
-#   description: | # this will include new lines to allow paragraphs
-#     * 커리어에서 가장 도전이 된 프로젝트
+- layout: left
+  name: TankBall!
+  link: https://github.com/richrookie/TankBall
+  quote: >
+    대표 프로젝트3 오픈소스
+  description: | # this will include new lines to allow paragraphs
+    * 커리어에서 가장 도전이 된 프로젝트
