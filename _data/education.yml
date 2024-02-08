@@ -7,3 +7,12 @@
   description: | # this will include new lines to allow paragraphs
     * 캡스톤 경진대회 우수상 - 상명대학교 교육혁신원 <mark>2019.06</mark>
     * VR/AR 그랜드챌린지 입선 - 한국가상 증강현실산업협의회(KoBRA) <mark>2019.10</mark>
+
+- layout: left
+  name: 게임프로그래밍전문가 - 한국콘텐츠진흥원(KOCCA)
+  dates: 2020.08
+  link: https://www.kgq.or.kr/service/info/cert3.do
+  quote: >
+    최종합격
+  description: | # this will include new lines to allow paragraphs
+    * Credential ID : 20101100040
