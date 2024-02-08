@@ -3,15 +3,14 @@
   description: | # this will include new lines to allow paragraphs
     * C#
     * Unity Engine
-    * Third-Party Tools
     * Git/Github
+    * Third-Party Tools
     * Luna-Playable
 - layout: left
   name: Project Manager
   description: | # this will include new lines to allow paragraphs
-    * Game Designer 
-    * Team Coordination 
-    * Schedule Management 
-    * Post-Release Analysis 
-    * Quality Control and Assurance 
-    * Conlflict Resolution
+    * Game Designer
+    * Team Coordination
+    * Schedule Management
+    * Post-Release Analysis
+    * Quality Control and Assurance
