@@ -15,9 +15,8 @@
     * 개발 업무 효율 100% 향상
 
 - layout: left
-  name: Match Gun 3D
+  name: [Match Gun 3D](https://play.google.com/store/apps/details?id=com.mondayoff.matchgun)
   link: https://github.com/richrookie/MatchGun3D
-  https://play.google.com/store/apps/details?id=com.mondayoff.matchgun
   quote: >
     대표 프로젝트1 오픈소스
    2023.05.11 ~ 2023.08.02 (2M 23D)
@@ -25,7 +24,7 @@
     * 첫 흑자 전환 프로젝트
 
 - layout: left
-  name: TimeWalker 3D
+  name: [TimeWalker 3D](https://play.google.com/store/apps/details?id=com.mondayoff.time)
   link: https://github.com/richrookie/TimeWalker3D
   quote: >
     대표 프로젝트2 오픈소스
@@ -34,7 +33,7 @@
     * 자사 첫 누적 유저 100만 달성
 
 - layout: left
-  name: TankBall!
+  name: [TankBall!](https://play.google.com/store/apps/details?id=com.mondayoff.tank)
   link: https://github.com/richrookie/TankBall
   quote: >
     대표 프로젝트3 오픈소스
