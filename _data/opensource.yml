@@ -21,7 +21,6 @@
     대표 프로젝트1 오픈소스
   description: | # this will include new lines to allow paragraphs
     * 첫 흑자 전환 프로젝트
-    * 2023.05.11 ~ 2023.08.02 (2M 23D)
 
 - layout: left
   name: TimeWalker 3D
@@ -30,7 +29,6 @@
     대표 프로젝트2 오픈소스
   description: | # this will include new lines to allow paragraphs
     * 자사 첫 누적 유저 100만 달성
-    * 2021.01.25 ~ 2021.06.05 (4M 11D)
 
 - layout: left
   name: TankBall!
@@ -39,4 +37,3 @@
     대표 프로젝트3 오픈소스
   description: | # this will include new lines to allow paragraphs
     * 기획과정에서 도전이 된 프로젝트
-    * 2021.10.01 ~ 2022.01.28 (3M 28D)
