@@ -12,7 +12,6 @@
 
 - layout: top-middle
   name: 대표 프로젝트
-  link: 
   quote: >
   description: | # this will include new lines to allow paragraphs
     * 첫 흑자 전환 프로젝트 - [Match Gun 3D](https://play.google.com/store/apps/details?id=com.mondayoff.matchgun) - 2023.05 ~ 2023.08 (3M)
@@ -21,7 +20,6 @@
 
 - layout: top-middle
   name: 업무효율 증대
-  link: 
   quote: >
   description: | # this will include new lines to allow paragraphs
     * Unity Framework 적극 활용으로 업무 효율 100% 증대
