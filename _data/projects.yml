@@ -3,12 +3,12 @@
   quote: >
     2020.10.03 ~ 현재 (3년 5개월)
   description: | # this will include new lines to allow paragraphs
-    * 게임 개발을 위한 프로젝트 계획 수립, 타임라인, 마일스톤 및 리소스 할당 설정 - <mark>Conceptualiztion</mark> <mark>Prototyping</mark>
-    * 팀원과 부서 간의 의사소통, 협업 및 워크플로우 촉진 - <mark>Desinger</mark> <mark>Creative Team</mark>
-    * 진행 상황 모니터링, 작업 완료 시간 등 전반적인 프로젝트 일정 관리 - <mark>Slack</mark> <mark>Git/Github</mark> <mark>Miro</mark>
-    * 작업 품질 테스트 및 피드백 루프 조정 - <mark>QA</mark>
-    * 팀 내 갈등이나 문제를 해결하고 긍정적이고 생산적인 업무 환경 모색 - <mark>Communication</mark>
-    * 출시 후 피드백, 성능 지표 분석 - <mark>Firebase Analytics</mark> <mark>3rd-party data</mark>
+    * 게임 개발을 위한 프로젝트 계획 수립, 타임라인, 마일스톤 및 리소스 할당 설정 - Conceptualiztion Prototyping
+    * 팀원과 부서 간의 의사소통, 협업 및 워크플로우 촉진 - Desinger Creative Team
+    * 진행 상황 모니터링, 작업 완료 시간 등 전반적인 프로젝트 일정 관리 - Slack Git/Github Miro
+    * 작업 품질 테스트 및 피드백 루프 조정 - QA
+    * 팀 내 갈등이나 문제를 해결하고 긍정적이고 생산적인 업무 환경 모색 - Communication
+    * 출시 후 피드백, 성능 지표 분석 - Firebase Analytics 3rd-party data
 
 - layout: top-middle
   name: 대표 프로젝트
@@ -24,5 +24,5 @@
   link: 
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * <mark>Unity Framework</mark> 적극 활용으로 업무 효율 100% 증대
-    * 개발 과정에서 겪는 실수를 방지하기 위한 <mark>Notion 정리</mark>
+    * Unity Framework 적극 활용으로 업무 효율 100% 증대
+    * 개발 과정에서 겪는 실수를 방지하기 위한 Notion 정리
