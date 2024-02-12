@@ -10,8 +10,8 @@
 - layout: left
   name: Project Manager
   description: | # this will include new lines to allow paragraphs
-    * Game Designer
-    * Team Coordination
-    * Schedule Management
+    * Game Design
     * Post-Release Analysis
     * Quality Control and Assurance
+    * Team Coordination
+    * Schedule Management
