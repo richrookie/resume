@@ -18,15 +18,15 @@
   name: Match Gun 3D
   link: https://github.com/richrookie/MatchGun3D
   quote: >
-    대표 프로젝트1 오픈소스
+    2023.05 ~ 2023.08 (3M)
   description: | # this will include new lines to allow paragraphs
-    * 첫 흑자 전환 프로젝트
+    * 흑자 전환 프로젝트
 
 - layout: left
   name: TankBall!
   link: https://github.com/richrookie/TankBall
   quote: >
-    대표 프로젝트3 오픈소스
+    2021.10 ~ 2022.01 (4M)
   description: | # this will include new lines to allow paragraphs
     * ROAS 150% 달성 프로젝트
 
@@ -34,6 +34,6 @@
   name: TimeWalker 3D
   link: https://github.com/richrookie/TimeWalker3D
   quote: >
-    대표 프로젝트2 오픈소스
+    2021.01 ~ 2021.05 (4M)
   description: | # this will include new lines to allow paragraphs
     * 자사 첫 누적 유저 100만 달성
