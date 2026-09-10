@@ -7,17 +7,17 @@ version: 2
 # Personal info
 name: 최영민
 title: 게임 클라이언트 개발자
-email: psymchoi@gmail.com
-website: https://richrookie.github.io/
+email: 
+website: 
 
 # Social links
-github_username:  richrookie
-linkedin_username: youngmin-choi-bs-2405b6208
+github_username:  
+linkedin_username: 
 # stackoverflow_username: "23053463"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: 
 about_content: |
   Unity Engine을 활용한 **4년 차** 클라이언트 개발자로
   **6억원의 매출**과 **누적 유저수 300만** 등의 서비스를 제공하였고, 전반적인 게임 개발과 개발 환경을 개선해왔습니다.<br/>
